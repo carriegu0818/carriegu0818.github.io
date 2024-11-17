@@ -66,4 +66,5 @@ Selected Awards & Honors
 - Phi Beta Kappa, Emory University, 2023
 - Academic Excellence Award, Emory University, 2023
 
-<a href='https://clustrmaps.com/site/1bpcz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=H_rmQ74PzdkUNlANtUmgRXjPSpOOYZFUaRnZHpKaXyE'/></a>
+<a href='https://clustrmaps.com/site/1bpcz'  title='Visit tracker'><img src='//clustrmaps.com/globe.js?d=YPNT3VWrXZ_WwZCj-nKLLHxy-_SyPVqJEh5XgoNH3RE'/></a>
+
