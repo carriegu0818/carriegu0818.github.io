@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a second year master <a href="https://www.cs.stanford.edu/">Computer Science</a> at <a href="https://www.stanford.edu/">Stanford University</a>, where I'm fortunate to work with Prof. <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>. My primary research focus is in machine learning, focusing on Generative AI and AI4Science. I am committed to creating advanced AI technologies that address real-world challenges and have significant societal benefits. 
 
-Previously, I received my B.S. (Phi Beta Kappa) from Emory University double majoring in Applied Math & Statistics and Computer Science. At Emory, I researched on explainable AI and machine learning for healthcare, advised by Prof. Liang Zhao and Prof. Joyce Ho. By developing explanation algorithms, I hope to extend my expertise and make machine learning interpretable for people outside of the field, especially in high-stakes domains such as healthcare.
+Previously, I received my B.S. (Phi Beta Kappa) from <a href="https://www.emory.edu/home/index.html">Emory University</a> double majoring in Applied Math & Statistics and Computer Science. At Emory, I researched on explainable AI and machine learning for healthcare, advised by Prof. <a href="https://cs.emory.edu/~lzhao41/">Liang Zhao</a> and Prof. <a href="https://joyceho.github.io/">Joyce Ho</a>. By developing explanation algorithms, I hope to extend my expertise and make machine learning interpretable for people outside of the field, especially in high-stakes domains such as healthcare.
 
 Selected Publications
 ======
