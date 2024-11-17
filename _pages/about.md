@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year master in computer Science at Stanford University, where I'm fortunate to work with Prof. Stefano Ermon. My primary research focus is in machine learning, focusing on Generative AI and AI4Science. I am committed to creating advanced AI technologies that address real-world challenges and have significant societal benefits. 
+I am currently a second year master <a href="https://www.cs.stanford.edu/">Computer Science</a> at <a href="https://www.stanford.edu/">Stanford University</a>, where I'm fortunate to work with Prof. <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>. My primary research focus is in machine learning, focusing on Generative AI and AI4Science. I am committed to creating advanced AI technologies that address real-world challenges and have significant societal benefits. 
 
 Previously, I received my B.S. (Phi Beta Kappa) from Emory University double majoring in Applied Math & Statistics and Computer Science. At Emory, I researched on explainable AI and machine learning for healthcare, advised by Prof. Liang Zhao and Prof. Joyce Ho. By developing explanation algorithms, I hope to extend my expertise and make machine learning interpretable for people outside of the field, especially in high-stakes domains such as healthcare.
 
