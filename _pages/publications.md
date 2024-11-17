@@ -57,8 +57,3 @@ Selected Publications
   <br/>
   [[Paper](https://journals.lww.com/cinjournal/fulltext/2024/03000/evaluating_natural_language_processing_packages.5.aspx)]
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
