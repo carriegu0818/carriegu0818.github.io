@@ -11,7 +11,7 @@ author_profile: true
 
 Selected Publications
 ======
-- **(<font color="#DC143C">NeurIPS 2024</font>) Aligning target-aware molecule diffusion models with exact energy optimization**
+- **(NeurIPS 2024) Aligning target-aware molecule diffusion models with exact energy optimization**
   <br/>
   _Siyi Gu\*, Minkai Xu\*, Alexander Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, Stefano Ermon_
   <br/>
@@ -26,7 +26,7 @@ Selected Publications
   _Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao_
   <br/>
   [[Paper](https://arxiv.org/pdf/2310.08420)]
-- **(<font color="#DC143C">SIGKDD 2024</font>) ESSA: Explanation iterative supervision via saliency-guided data augmentation**
+- **(SIGKDD 2024) ESSA: Explanation iterative supervision via saliency-guided data augmentation**
   <br/>
   _Siyi Gu\*, Yifei Zhang\*, Yuyang Gao, Xiaofeng Yang, Liang Zhao_
   <br/>
