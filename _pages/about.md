@@ -13,7 +13,7 @@ Previously, I received my B.S. (Phi Beta Kappa) from <a href="https://www.emory.
 
 Selected Publications
 ======
-- **(>NeurIPS 2024) Aligning target-aware molecule diffusion models with exact energy optimization**
+- **(NeurIPS 2024) Aligning target-aware molecule diffusion models with exact energy optimization**
   <br/>
   _**Siyi Gu**\*, Minkai Xu\*, Alexander Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, Stefano Ermon_
   <br/>
@@ -23,7 +23,7 @@ Selected Publications
   _**Siyi Gu**\*, Yifei Zhang\*, Yuyang Gao, Xiaofeng Yang, Liang Zhao_
   <br/>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599336)]
-  - **(IJCAI 2024) Visual Attention-Prompted Prediction and Learning**
+- **(IJCAI 2024) Visual Attention-Prompted Prediction and Learning**
   <br/>
   _Yifei Zhang, **Siyi Gu**, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao_
   <br/>
