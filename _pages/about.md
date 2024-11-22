@@ -18,7 +18,7 @@ Selected Publications
   _**Siyi Gu**\*, Minkai Xu\*, Alexander Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, Stefano Ermon_
   <br/>
   [[Paper](https://arxiv.org/pdf/2407.01648)]
-- **(SIGKDD 2024) ESSA: Explanation iterative supervision via saliency-guided data augmentation**
+- **(SIGKDD 2023) ESSA: Explanation iterative supervision via saliency-guided data augmentation**
   <br/>
   _**Siyi Gu**\*, Yifei Zhang\*, Yuyang Gao, Xiaofeng Yang, Liang Zhao_
   <br/>
@@ -38,7 +38,7 @@ Selected Publications
   _Yuyang Gao, **Siyi Gu**, Junji Jiang, Sungsoo Ray Hong, Dazhou Yu, Liang Zhao_
   <br/>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3644073)]
-- **(SIGKDD 2023) RES: A robust framework for guiding visual explanation**
+- **(SIGKDD 2022) RES: A robust framework for guiding visual explanation**
   <br/>
   _Yuyang Gao, Tong Steven Sun, Guangji Bai, **Siyi Gu**, Sungsoo Ray Hong, Zhao Liang_
   <br/>
