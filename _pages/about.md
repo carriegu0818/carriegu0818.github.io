@@ -43,17 +43,6 @@ Selected Publications
   _Yuyang Gao, Tong Steven Sun, Guangji Bai, **Siyi Gu**, Sungsoo Ray Hong, Zhao Liang_
   <br/>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539419)]
-- **(ICCV 2023) MAGI: Multi-annotated explanation-guided learning**
-  <br/>
-  _Yifei Zhang, **Siyi Gu**, Yuyang Gao, Bo Pan, Xiaofeng Yang, Liang Zhao_
-  <br/>
-  [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf)]
-- **(CIN 2024) Evaluating Natural Language Processing Packages for Predicting Hospital-Acquired Pressure Injuries From Clinical Notes**
-  <br/>
-  _**Siyi Gu**, Eric W Lee, Wenhui Zhang, Roy L Simpson, Vicki Stover Hertzberg, Joyce C Ho_
-  <br/>
-  [[Paper](https://journals.lww.com/cinjournal/fulltext/2024/03000/evaluating_natural_language_processing_packages.5.aspx)]
-  
 
 Selected Awards & Honors
 ======
